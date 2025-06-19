@@ -25,7 +25,7 @@ How to use?
 - press button 1 (the closer one of the USB port) to start jamming on both frequency.
 - press button 2 to stop all.
 
-- 
+
 
 Educationnal purposes only.
 
